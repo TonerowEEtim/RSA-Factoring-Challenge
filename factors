@@ -33,4 +33,3 @@ def fac_list(ls):
 
 if len(argv) == 2:
     fac_list(open_read_file(argv[1]))
-Footer

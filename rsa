@@ -43,4 +43,3 @@ class factor_file:
 
 for i in range(1, len(argv)):
     factor_file(argv[i]).factor_each_n_in_lis()
-Footer
